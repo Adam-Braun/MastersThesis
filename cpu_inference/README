@@ -1,2 +1,5 @@
-scripts from
+The inference are scripts from:
 https://github.com/NVIDIA/DIGITS/tree/digits-5.0/examples/classification
+
+The trained model was training using dataset developed from Planet Labs imagery.
+The test image is sample from the training dataset.
