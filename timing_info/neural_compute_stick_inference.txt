@@ -1,0 +1,9 @@
+pi@raspberrypi:~/MastersThesis $ ./full_pipeline_classifier.py
+Completed in:
+25.16618824005127
+Total number of tiles classified
+80
+Total milliseconds spent in inference:
+7631.43205261
+Average inference time (in milliseconds):
+95.3929

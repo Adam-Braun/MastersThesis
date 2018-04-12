@@ -1,0 +1,14 @@
+pi@raspberrypi:~/MastersThesis/cpu_inference $ ./use_archive.py 20180409-200911-4a30_epoch_30.0.tar.gz test_image.jpg --nogpu
+Extracting tarfile ...
+Unknown file: train_val.prototxt
+Unknown file: solver.prototxt
+Unknown file: original.prototxt
+Unknown file: info.json
+Processed 1/1 images in 3.126186 seconds ...
+------------------------ Prediction for test_image.jpg -------------------------
+ 99.9849% - "city"
+  0.0149% - "other"
+  0.0002% - "water"
+  0.0000% - "clouds"
+
+Script took 22.369446 seconds.
